@@ -1,0 +1,15 @@
+[package]
+name = "Kmeans"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+linfa = "0.5.0"
+ndarray = "0.15.4"
+rand = "0.8.4"
+plotters = "0.3.1"
+linfa-clustering = "0.5.0"
+ndarray-rand = "0.14.0"
+rand_isaac = "0.3.0"
